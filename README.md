@@ -16,12 +16,14 @@ Perform Competitor Analysis (Internshala, LinkedIn, Unstop)
 Identify SEO issues and provide improvement recommendations
 
 🛠 Tools Used
+
 Screaming Frog SEO Spider
 Google Sheets 
 Google Search
 Google Keyword Planner(Keyword research)
 
 🔍 Key Findings
+
 Technical SEO Issues
 32 total URLs crawled
 0 broken pages (404 errors)
@@ -55,32 +57,40 @@ LinkedIn Jobs
 Unstop
 
 Key Observations:
+
 Competitors have stronger content marketing strategies
 Blogs and testimonials improve trust and SEO performance
 Higher domain authority gives them ranking advantage
 
-⚠️ Major SEO Issues Found
+⚠️ Major SEO Issues Found:
+
 Duplicate page titles (3 pages)
 Missing meta descriptions (3 pages)
 Missing H1 headings (3 pages)
 Single-page structure limits keyword targeting
 No blog/content strategy
 
-💡 Recommendations
+💡 Recommendations:
+
 High Priority
+
 Fix duplicate page titles
 Add missing meta descriptions
 Add missing H1 tags
 Convert single-page website into multi-page structure
+
 Medium Priority
+
 Add blog section for SEO content marketing
 Improve internal linking structure
 Add testimonials and success stories
+
 Low Priority
+
 Optimize images (alt text, compression)
 Improve backlink strategy
 
-📈 Expected Impact
+📈 Expected Impact:
 
 If recommendations are implemented:
 
@@ -91,6 +101,7 @@ Increased user engagement
 Stronger search visibility
 
 🎓 Skills Demonstrated
+
 Technical SEO Analysis
 On-Page SEO Optimization
 Keyword Research
