@@ -9,18 +9,18 @@ The audit was performed using real-world SEO tools and structured like a profess
 
 🎯 Objectives:
 
-Perform Technical SEO audit using Screaming Frog
-Analyze On-Page SEO elements (titles, meta descriptions, H1 tags)
-Conduct Keyword Research for internship-related queries
-Perform Competitor Analysis (Internshala, LinkedIn, Unstop)
-Identify SEO issues and provide improvement recommendations
+- Perform Technical SEO audit using Screaming Frog
+- Analyze On-Page SEO elements (titles, meta descriptions, H1 tags)
+- Conduct Keyword Research for internship-related queries
+- Perform Competitor Analysis (Internshala, LinkedIn, Unstop)
+- Identify SEO issues and provide improvement recommendations
 
 🛠 Tools Used:
 
-Screaming Frog SEO Spider,
-Google Sheets ,
-Google Search,
-Google Keyword Planner (Keyword research tool)
+- Screaming Frog SEO Spider
+- Google Sheets 
+- Google Search
+- Google Keyword Planner (Keyword research tool)
 
 🔍 Key Findings:
 
